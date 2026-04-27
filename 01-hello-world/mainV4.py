@@ -10,7 +10,7 @@ while True:
     except ValueError:
         print("Por favor, digite um número válido.")
 
-mensagem_base = f"Bem-vindo(a) ao meu exercício, {nome}! Atualmente você é {profissao}."
+mensagem_base = f"Bem-vindo(a) ao meu GitHub, {nome}! Atualmente você é {profissao}."
 
 if idade < 12:
     falta = 18 - idade
